@@ -1,5 +1,3 @@
-# AWS Container Security Survey 2019
-
 A summary of the survey results is available as a [PDF](AWS-container-security-survey-2019-summary.pdf) for download.
 
 > Welcome to the AWS container security survey 2019!
