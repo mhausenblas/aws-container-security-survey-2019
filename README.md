@@ -1,5 +1,7 @@
 # AWS Container Security Survey 2019
 
+A summary of the survey results is available as a [PDF](AWS-container-security-survey-2019-summary.pdf) for download.
+
 > Welcome to the AWS container security survey 2019!
 > This is an informal survey about container security practices, 
 > should take some 5 min. The survey is open until end of 2019 and 
@@ -112,7 +114,7 @@ The artefacts, such as container images, along the supply chain are managed usin
 
 *68 out of 68 people answered this question*
 
-If the answer to Q7 was "Yes", the following questions were asked, additionally:
+If the answer to Q7 was "Yes", the following questions Q8 to Q11 were asked, additionally:
 
 ## Q8: Kubernetes: network policies
 
