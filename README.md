@@ -1,3 +1,7 @@
+In late 2019, I carried out an anonymous survey amongst AWS containers users.
+The survey focused on container security good practices and uptake of tooling
+in this space. 
+
 A summary of the survey results is available as a [PDF](AWS-container-security-survey-2019-summary.pdf) for download.
 
 > Welcome to the AWS container security survey 2019!
