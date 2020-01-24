@@ -10,6 +10,8 @@ A summary of the survey results is available as a [PDF](AWS-container-security-s
 > I plan to publish the results on GitHub.
 > Thanks for your time!
 
+Note: the raw results will be made available, soon.
+
 The questions of the survey were:
 
 1. [How do you run your containers on AWS?](#q1-how-do-you-run-your-containers-on-aws)
