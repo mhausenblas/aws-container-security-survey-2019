@@ -10,7 +10,7 @@ A summary of the survey results is available as a [PDF](AWS-container-security-s
 > I plan to publish the results on GitHub.
 > Thanks for your time!
 
-Note: the raw results will be made available, soon.
+Note: if you're interested in the raw data, check out the [responses](final-responses.csv) and [results](final-results.csv) CSV files, respectively.
 
 The questions of the survey were:
 
