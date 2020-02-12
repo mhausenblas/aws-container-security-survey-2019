@@ -2,7 +2,10 @@ In late 2019, I carried out an anonymous survey amongst AWS containers users.
 The survey focused on container security good practices and uptake of tooling
 in this space. 
 
-A summary of the survey results is available as a [PDF](AWS-container-security-survey-2019-summary.pdf) for download.
+A word on the methodology: I put together an online survey using Typeform,
+comprising 13 questions, four of which were Kubernetes-specific. I then posted the survey with a call for action to various fora including AWS/CNCF/Kubernetes Slack community channels, on Reddit in `r/aws`, [discuss.kubernetes.io](http://discuss.kubernetes.io) as well as word of mouth promotion, asking colleagues to invite their customers to participate. The survey opened on 2019-12-12 and was accessible until 2019-12-30.
+
+The summary of the survey results is available as a [PDF](AWS-container-security-survey-2019-summary.pdf) for download.
 
 > Welcome to the AWS container security survey 2019!
 > This is an informal survey about container security practices, 
